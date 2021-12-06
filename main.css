@@ -1,0 +1,48 @@
+*{ 
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+ }
+ @font-fase{
+ 	font-family: RobotoR;
+ 	src: url(..fontts/Roboto-Regular.ttf);
+ 	
+ }
+.first {
+	background-image: url(img1.jpg);
+	height:500px;
+	width: 100%;
+	background-color-position: center;
+	}
+.tourism{
+	    padding-top: 20px;
+		height: 35px;
+		width: 200px;
+		text-align: center;
+        padding-left: 50%;
+        font-size: 20px;
+    }
+.first-lime{ 
+	    width: 200px;
+	    text-align: center;
+	    padding-top: 120px;
+	    padding-left: 100px;
+	    font-size: 30px;
+    }
+.second-lime{
+    	width: 200px;
+	    text-align: center;
+	     padding-top: 120px;
+	    padding-left: 100px;
+	    font-size: 30px;
+    }
+.third-line{
+	 padding-top: 1px;
+	 padding-left: 100px;
+
+
+}
+.tempor{
+
+	padding-left: 100px;
+}
